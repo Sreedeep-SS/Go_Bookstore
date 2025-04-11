@@ -1,0 +1,14 @@
+# Binaries
+*.exe
+*.out
+*.test
+
+# Build artifacts
+bin/
+vendor/
+
+# IDE and OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
